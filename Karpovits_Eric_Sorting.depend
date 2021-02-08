@@ -1,0 +1,57 @@
+# depslib dependency file v1.0
+1605490920 source:c:\users\eric\documents\github\recursive-sorting-assignment-erickarpovits\karpovits_eric_sorting\main.cpp
+	"declarations.h"
+
+1605490648 c:\users\eric\documents\github\recursive-sorting-assignment-erickarpovits\karpovits_eric_sorting\declarations.h
+	<iostream>
+	<windows.h>
+	<time.h>
+	<ctime>
+	<ratio>
+	<chrono>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	"string.h"
+	"apvector.h"
+	"allegro.h"
+	"sorting.h"
+	"appManagement.h"
+
+1604430138 c:\users\eric\documents\github\recursive-sorting-assignment-erickarpovits\karpovits_eric_sorting\apvector.h
+	"apvector.cpp"
+
+1604430136 c:\users\eric\documents\github\recursive-sorting-assignment-erickarpovits\karpovits_eric_sorting\apvector.cpp
+	<cstdlib>
+	<cassert>
+	<iostream>
+	"apvector.h"
+
+1605489173 c:\users\eric\documents\github\recursive-sorting-assignment-erickarpovits\karpovits_eric_sorting\sorting.h
+
+1605490042 source:c:\users\eric\documents\github\recursive-sorting-assignment-erickarpovits\karpovits_eric_sorting\sorting.cpp
+	"declarations.h"
+
+1605489232 c:\users\eric\documents\github\recursive-sorting-assignment-erickarpovits\karpovits_eric_sorting\allegro.h
+
+1605491686 source:c:\users\eric\documents\github\recursive-sorting-assignment-erickarpovits\karpovits_eric_sorting\allegrosetup.cpp
+	"declarations.h"
+
+1605491324 source:c:\users\eric\documents\github\recursive-sorting-assignment-erickarpovits\karpovits_eric_sorting\allegro.cpp
+	"declarations.h"
+
+1605488029 c:\users\eric\documents\github\recursive-sorting-assignment-erickarpovits\karpovits_eric_sorting\gamemanagement.h
+
+1605469754 source:c:\users\eric\documents\github\recursive-sorting-assignment-erickarpovits\karpovits_eric_sorting\gamemanagement.cpp
+	"declarations.h"
+
+1605488337 c:\users\eric\documents\github\recursive-sorting-assignment-erickarpovits\karpovits_eric_sorting\appmanagement.h
+
+1605488029 source:c:\users\eric\documents\github\recursive-sorting-assignment-erickarpovits\karpovits_eric_sorting\appmanagement.cpp
+	"declarations.h"
+
