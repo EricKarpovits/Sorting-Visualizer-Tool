@@ -1,7 +1,7 @@
 # Graphical-Sorting-Tool - Eric Karpovits 
 
 <p align="center">
-  <img src="https://img.shields.io/badge/developer-EricKarpovits-blue?style=flat-square&logo=github"> <img src="https://img.shields.io/badge/version-3.1.2-brightgreen?style=flat-square&color=2bbc8a"> <img src="https://img.shields.io/badge/build-passed-brightgreen?style=flat-square"> <img src="https://img.shields.io/badge/Made%20with-C++-1f425f.svg?style=flat-square">
+  <img src="https://img.shields.io/badge/developer-EricKarpovits-blue?style=flat-square&logo=github"> <img src="https://img.shields.io/badge/version-3.1.2-brightgreen?style=flat-square&color=2bbc8a"> <img src="https://img.shields.io/badge/build-passed-brightgreen?style=flat-square"> <img src="https://img.shields.io/badge/made%20with-C++-1f425f.svg?style=flat-square&logo=c%2B%2B">
 </p>
 
 **Description:** This tool graphically sorts and searches from a list of random integers of any size (default: 100 numbers) using three sorting algorithms and a search algorithm that uses an iterative and recursive computing method. The user can shuffle and reset the list of numbers as they choose. Additionally, they can pick from the following sorting and search algorithms to sort and search through a set of unsorted numbers. Enjoy the project and tool :).
@@ -14,3 +14,5 @@
 Merge Sort Demo:
 
 ![demo3]()
+
+
