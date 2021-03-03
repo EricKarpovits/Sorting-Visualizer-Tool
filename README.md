@@ -1,4 +1,4 @@
-# Graphical-Sorting-Tool - [Eric Karpovits](https://github.com/EricKarpovits)
+# Sorting-Visualization-Tool - [Eric Karpovits](https://github.com/EricKarpovits)
 
 <p align="center">
   <a href="https://github.com/EricKarpovits/">
